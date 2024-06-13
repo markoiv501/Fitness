@@ -1,0 +1,22 @@
+[11-Jun-2024 16:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/scfocaco/public_html/fitness/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/scfocaco/public_html/fitness/index.php on line 57
+[11-Jun-2024 16:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/scfocaco/public_html/fitness/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/scfocaco/public_html/fitness/index.php on line 57
+[11-Jun-2024 16:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/scfocaco/public_html/fitness/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/scfocaco/public_html/fitness/index.php on line 57
+[11-Jun-2024 16:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/scfocaco/public_html/fitness/admin_dashboard.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/scfocaco/public_html/fitness/admin_dashboard.php on line 72
+[11-Jun-2024 16:48:34 UTC] PHP Warning:  require_once(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/scfocaco/public_html/fitness/register_member.php on line 4
+[11-Jun-2024 16:48:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scfocaco/public_html/fitness/register_member.php on line 4
+[11-Jun-2024 16:49:17 UTC] PHP Notice:  Undefined index: trainer in /home/scfocaco/public_html/fitness/assign_trainers.php on line 8
+[11-Jun-2024 16:49:36 UTC] PHP Warning:  require_once(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/scfocaco/public_html/fitness/register_member.php on line 4
+[11-Jun-2024 16:49:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scfocaco/public_html/fitness/register_member.php on line 4
+[11-Jun-2024 16:51:14 UTC] PHP Notice:  Undefined index: photo_path_member in /home/scfocaco/public_html/fitness/register_member.php on line 14
